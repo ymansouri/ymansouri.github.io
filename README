@@ -1,0 +1,10 @@
+ymansouri.github.io
+
+│
+├── index.html              (Home)
+├── publications.html       (Research papers)
+├── projects.html           (GitHub projects)
+├── cv.pdf                  (Your CV)
+├── style.css
+└── images/
+    └── profile.jpg
