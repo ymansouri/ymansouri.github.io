@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Automated Hybrid Cloud for Distributed Database Performance",
+        "organization": "Research & Industry Collaboration",
+        "duration": "2022 - 2023",
+        "role": "Research Engineer",
+        "keywords": [
+        "Microsoft Azure", "OpenStack",  "Terraform", "Infrastructure as Code (IaC)", "WireGuard", "MongoDB", "Cassandra", "Redis", "MySQL Cluster", "Riak", "CouchDB", "Performance Benchmarking"   
+        
+        ],
+        "summary": "Designed and implemented an automated hybrid-cloud environment integrating OpenStack and Microsoft Azure to evaluate distributed database performance under cloud-bursting scenarios. The project combined Infrastructure as Code, secure cross-cloud networking, and distributed database benchmarking to investigate performance, scalability, latency, and resource utilization across private and public cloud environments.",
+        "contributions": [
+            "Built and automated a hybrid-cloud testbed using OpenStack, Azure, and Terraform",
+            "Deployed and benchmarked six distributed database systems under cloud-bursting workloads",
+            "Analyzed throughput, latency, scalability, and resource utilization across different cloud configurations"
+        ],
+        "outcome": "Provided practical insights into the performance characteristics, scalability limitations, and suitability of distributed databases in hybrid-cloud environments, supporting more informed database selection and cloud architecture decisions."
+    },
+
+
+    {
+        "title": "Resource Utilization of Distributed Databases in Edge-Cloud Environment",
+        "duration": "2018 - 2020",
+        "role": "Research Engineer",
+        "keywords": [
+            "Edge Computing",  "Microsoft Azure", "OpenStack", "Raspberry Pi", "MongoDB", "Cassandra", "Redis", "MySQL",  "Energy Efficiency", "Resource Utilization", "Bandwidth Consumption", "Storage Utilization"
+        ],
+        "summary": "Designed and conducted a comprehensive evaluation of distributed databases across edge, cloud, and hybrid-cloud environments, focusing on resource efficiency rather than performance alone. The project investigated how database workload placement across heterogeneous computing resources affects energy consumption, network bandwidth, and storage utilization. Experimental environments included physical and virtualized servers, Raspberry Pi edge devices, OpenStack private cloud, and Microsoft Azure, providing practical insights into resource-aware database deployment for distributed and edge-cloud applications.",
+        "contributions": [
+            "Designed experimental environments spanning edge devices, physical/virtualized servers, OpenStack, and Microsoft Azure.",
+            "Evaluated distributed databases including Cassandra, MongoDB, Redis, and MySQL under different workload-offloading scenarios.", 
+            "Analyzed energy, bandwidth, and storage consumption to identify resource-efficient database deployment strategies"
+        ],
+        "outcome": "Provided practical insights into resource-aware deployment and database selection for edge-cloud applications, helping identify which database and workload-placement strategies can provide better energy, bandwidth, and storage efficiency across heterogeneous computing environments."
+    }, 
+
+    {
+        "title": "Design and Implementation of Fragmented Clouds for Evaluation of Distributed Databases",
+        "duration": "2018 - 2020",
+        "role": "Research Engineer",
+        "keywords": [
+            "Fragmented Hybrid Cloud, Linux System Utilities, Bash Shell, Network Emulation, Network Latency, Bandwidth, Dynamic Cloud Infrastructure, Cassandra, MongoDB, Redis, MySQL, Distributed Systems, Performance Benchmarking"
+        ],
+        "summary": "Designed and implemented a Fragmented Hybrid Cloud (FHC) to evaluate distributed database performance across geographically distributed and potentially mobile private-cloud environments. The project created a unified cloud infrastructure in which computing resources could be dynamically added, removed, or relocated, enabling the evaluation of distributed databases under changing network latency, bandwidth, node availability, and cluster size. The environment was implemented using Linux utilities and Bash-shell programming, providing a lightweight and configurable platform for experimenting with fragmented and dynamic cloud infrastructures.",
+        "contributions": [
+            "Designed and implemented a Fragmented Hybrid Cloud supporting geographically distributed and dynamic private-cloud nodes.",
+            "Developed a lightweight experimental framework using Linux utilities and Bash scripting to control network conditions, node availability, and cloud infrastructure changes.", 
+            "Evaluated Cassandra, MongoDB, Redis, and MySQL under varying latency, bandwidth, cluster size, and network-accessibility conditions."
+        ],
+        "outcome": "Provided practical insights into the performance and scalability of distributed databases in fragmented and dynamic cloud environments, particularly under changing network conditions and intermittent connectivity."
+    },
+    {
+        "title": "Impact of Distance on Distributed Database Performance in Hybrid Clouds",
+        "duration": "2018 - 2020",
+        "role": "Research Engineer",
+        "keywords": [
+            "Microsoft Azure, Hybrid Cloud, Multi-Region Cloud, OpenStack,  MongoDB, MySQL Cluster, Cassandra, Riak, Redis, CouchDB, Virtual Machines, Cloud Scalability,  Throughput, Network Latency, VM Sizing"
+        ],
+        "summary": "Designed and conducted a multi-region hybrid-cloud performance evaluation to investigate how geographical distance between private and public cloud data centers affects distributed database performance and scalability. The project integrated a private cloud in Adelaide with Microsoft Azure data centers in Sydney, Mumbai, and Virginia, enabling systematic evaluation under different network distances and virtual-machine configurations. The study examined throughput, scalability, VM sizing, and deployment configuration across distributed database systems to identify practical strategies for optimizing cloud-based data platforms.",
+        "contributions": [
+            "Designed a multi-region hybrid-cloud test environment connecting a private cloud with Microsoft Azure regions.",
+            "Evaluated six distributed databases under different network distances, VM sizes, and scalability configurations.", 
+            "Analyzed the impact of geographical distance and vertical vs. horizontal scalability on database throughput."
+        ],
+        "outcome": "Provided practical guidance for distributed database deployment and cloud infrastructure sizing. These showed that greater distance generally reduced throughput, while vertical scaling often provided greater performance benefits than simply increasing the number of VMs."
+    }
+]

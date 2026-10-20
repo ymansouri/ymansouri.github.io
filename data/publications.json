@@ -1,0 +1,214 @@
+[{
+  "type": "journal",
+  "year": 2026,
+  "authors": "Asal Rahbari and Yaser Mansouri",
+  "title": "Auto-Scaling Evaluation of Distributed Databases on Cloud Computing Platforms",
+  "venue": "Journal of Network and Computer Applications (JNCA)",
+  "details": "Under Progress.",
+  "link": ""
+},
+{
+  "type": "journal",
+  "year": 2026,
+  "authors": "Yaser Mansouri",
+  "title": "Workload-Aware Data Placement for Tiered Cloud Storage Services",
+  "venue": "IEEE Transaction on Service Computing",
+  "details": "Under Progress.",
+  "link": ""
+},
+{
+  "type": "journal",
+  "year": 2020,
+  "authors": "Yaser Mansouri and M. Ali Babar",
+  "title": "The Impact of Distance on Performance and Scalability of Distributed Database Systems in Hybrid Clouds",
+  "venue": "Journal of Systems and Software (JSS)",
+  "details": "Minor revision.",
+  "link": "https://arxiv.org/abs/2007.15826"
+},
+{
+  "type": "journal",
+  "year": 2025,
+  "authors": "Yaser Mansouri, Faheem Ullah, Shagun Dhingra, and M. Ali Babar",
+  "title": "Design and Implementation of Fragmented Clouds for Evaluation of Distributed Databases",
+  "venue": "IEEE Transactions on Cloud Computing",
+  "details": "Vol. 13, No. 4, pp. 1190-1204. [IF: 5.3]",
+  "link": "https://doi.org/10.1109/TCC.2023.3304351"
+},
+{
+  "type": "journal",
+  "year": 2023,
+  "authors": "Yaser Mansouri, Victor Prokhorenko, Faheem Ullah, and M. Ali Babar",
+  "title": "Resource Utilization of Distributed Databases in Edge-Cloud Environment",
+  "venue": "IEEE Internet of Things Journal",
+  "details": "Vol. 10, No. 11, pp. 9423-9437. [IF:10.23]",
+  "link": "https://doi.org/10.1109/JIOT.2023.3235360"
+},
+{
+  "type": "journal",
+  "year": 2021,
+  "authors": "Yaser Mansouri and M. Ali Babar",
+  "title": "A Review of Edge Computing: Features and Resource Virtualization",
+  "venue": "Journal of Parallel and Distributed Computing (JPDC)",
+  "details": "Volume 150, Pages 155-183, Elsevier Press. [ERA A, IF:2.29]",
+  "link": "https://doi.org/10.1016/j.jpdc.2020.12.015"
+},
+{
+  "type": "journal",
+  "year": 2020,
+  "authors": "Yaser Mansouri, Victor Prokhorenko, and M. Ali Babar",
+  "title": "An Automated Implementation of Hybrid Cloud for Performance Evaluation of Distributed Databases",
+  "venue": "Journal of Network and Computer Applications (JNCA)",
+  "details": "Volume 167, Elsevier. [ERA A, IF:5.57]",
+  "link": "https://doi.org/10.1016/j.jnca.2020.102740"
+},
+{
+  "type": "journal",
+  "year": 2020,
+  "authors": "Abdelkarim Erradi and Yaser Mansouri",
+  "title": "Online Cost Optimization Algorithms for Tiered Cloud Storage Services",
+  "venue": "Journal of Systems and Software (JSS)",
+  "details": "Volume 160, Article 110457. [ERA A, IF:2.45]",
+  "link": "https://doi.org/10.1016/j.jss.2019.110457"
+},
+{
+  "type": "journal",
+  "year": 2019,
+  "authors": "Yaser Mansouri and Rajkumar Buyya",
+  "title": "Dynamic Replication and Migration of Data Objects with Hot-spot and Cold-spot Statuses Across Storage Data Centers",
+  "venue": "Journal of Parallel and Distributed Computing (JPDC)",
+  "details": "Volume 126, Pages 121-133, Elsevier Press. [ERA A*, IF:2.29]",
+  "link": "https://doi.org/10.1016/j.jpdc.2018.12.003"
+},
+{
+  "type": "journal",
+  "year": 2019,
+  "authors": "Yaser Mansouri, Adel Nadjaran Toosi, and Rajkumar Buyya",
+  "title": "Cost Optimization for Dynamic Replication and Migration of Data in Cloud Data Centers",
+  "venue": "IEEE Transactions on Cloud Computing (TCC)",
+  "details": "Volume 7, Number 3, Pages 705-718. [IF:5.72]",
+  "link": "https://doi.org/10.1109/TCC.2017.2659728"
+},
+{
+  "type": "journal",
+  "year": 2018,
+  "authors": "Yaser Mansouri, Adel Nadjaran Toosi, and Rajkumar Buyya",
+  "title": "Data Storage Management in Cloud Environments: Taxonomy, Survey, and Future Directions",
+  "venue": "ACM Computing Surveys",
+  "details": "Volume 50, No. 6, Article No. 91, Pages 1-66. [ERA A*, IF:6.13]",
+  "link": "https://doi.org/10.1145/3136623"
+},
+{
+  "type": "journal",
+  "year": 2016,
+  "authors": "Yaser Mansouri and Rajkumar Buyya",
+  "title": "To Move or Not to Move: Cost Optimization in a Dual Cloud-based Storage Architecture",
+  "venue": "Journal of Network and Computer Applications (JNCA)",
+  "details": "Volume 75, Pages 223-235. [ERA A, IF:5.57]",
+  "link": "https://doi.org/10.1016/j.jnca.2016.08.029"
+},
+
+ {
+  "type": "conference",
+  "year": 2018,
+  "authors": "Yaser Mansouri and Abdelkarim Erradi",
+  "title": "Cost Optimization Algorithms for Hot and Cool Tiers Cloud Storage Services",
+  "venue": "Proceedings of 11th International Conference on Cloud Computing (CLOUD 2018), San Francisco, USA",
+  "details": "Pages 622-629",
+  "link": "https://doi.org/10.1109/CLOUD.2018.00086"
+},
+{
+  "type": "conference",
+  "year": 2014,
+  "authors": "Yaser Mansouri, Saeed Talatian Azad, and Alireza Chamkori",
+  "title": "Minimizing Cost of K-Replica in Hierarchical Data Grid Environment",
+  "venue": "28th IEEE International Conference on Advanced Information Networking and Applications (AINA'14), Victoria, Canada",
+  "details": "Pages 1073-1080",
+  "link": "https://doi.org/10.1109/AINA.2014.130"
+},
+{
+  "type": "conference",
+  "year": 2013,
+  "authors": "Yaser Mansouri, Adel Nadjaran Toosi, and Rajkumar Buyya",
+  "title": "Brokering Algorithms for Optimizing the Availability and Cost of Cloud Storage Services",
+  "venue": "IEEE International Conference on Cloud Computing Technology and Science (CLOUDCOM'13), Bristol, UK",
+  "details": "Pages 581-589",
+  "link": "https://doi.org/10.1109/CloudCom.2013.83"
+},
+{
+  "type": "conference",
+  "year": 2013,
+  "authors": "Yaser Mansouri and Reza Monsefi",
+  "title": "Minimizing Access Cost of Replicas in Tree Data Grids for Read-only Objects",
+  "venue": "IEEE Symposium on Industrial Electronics and Applications (ISIEA'13), Malaysia",
+  "details": "Pages 166-171",
+  "link": "https://doi.org/10.1109/ISIEA.2013.6738988"
+},
+{
+  "type": "conference",
+  "year": 2008,
+  "authors": "Yaser Mansouri and Reza Monsefi",
+  "title": "Optimal Number of Replicas with QoS Assurance in Data Grid Environment",
+  "venue": "Second Asia International Conference on Modelling and Simulation (AMS'08), Kuala Lumpur, Malaysia",
+  "details": "Pages 168-173",
+  "link": "https://doi.org/10.1109/AMS.2008.147"
+},
+{
+  "type": "conference",
+  "year": 2008,
+  "authors": "Yaser Mansouri, Mehran Garmehi, Mahdi Sargolzaei, and Mahdieh Shadi",
+  "title": "Optimal Number of Replicas in Data Grid Environment",
+  "venue": "First International Conference on Distributed Framework and Applications (DFmA'08), Penang, Malaysia",
+  "details": "Pages 96-101",
+  "link": "https://doi.org/10.1109/ICDFMA.2008.4784420"
+},
+{
+  "visible": false,
+  "type": "conference",
+  "year": 2007,
+  "authors": "Mehran Garmehi and Yaser Mansouri",
+  "title": "Optimal Placement Replication on Data Grid Environments",
+  "venue": "10th International Conference on Information Technology (ICIT'07), India",
+  "details": "Pages 190-195",
+  "link": ""
+},
+{
+  "visible": false,
+  "type": "conference",
+  "year": 2007,
+  "authors": "Yaser Mansouri, Mohammad Moallemi, Amin Rasoulifard, and Hossain Deldari",
+  "title": "A Broadcast Fault-Tolerant Hierarchical Token-Based Mutual Exclusion Algorithm",
+  "venue": "International Conference on Information and Communication Technology (ICICT'07), Dhaka, Bangladesh",
+  "details": "Pages 174-179",
+  "link": ""
+},
+{
+  "visible": false,
+  "type": "conference",
+  "year": 2006,
+  "authors": "Mohammad Moallemi, Yaser Mansouri, Amin Rasoulifard, and Mahmoud Naghibzadeh",
+  "title": "Fault-Tolerant Hierarchical Token-Based Mutual Exclusion Algorithm",
+  "venue": "International Symposium on Communications and Information Technologies (ISCIT'06), Bangkok, Thailand",
+  "details": "2006",
+  "link": ""
+},
+  {
+    "visible": false,
+    "type": "book",
+    "year": 2009,
+    "authors": "Yaser Mansouri",
+    "title": "A Series of Multiple Choice Tests in Database for Computer Engineering",
+    "venue": "1st Edition (Persian)",
+    "details": ""
+  },
+
+  {
+    "visible": false,
+    "type": "book",
+    "year": 2007,
+    "authors": "Yaser Mansouri",
+    "title": "A Series of Multiple Choice Tests in Discrete Mathematics for Computer Engineering",
+    "venue": "3rd Edition (Persian)",
+    "details": "Editor"
+  }
+  
+]

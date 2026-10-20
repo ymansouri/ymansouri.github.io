@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cloud Optimization and Elastic Data Management:",
+    "label": "Project",
+    "period": "Jun. 2023 - present",
+    "role": "Research Engineer",
+    "institution": "IPM",
+    "institution_link": "https://www.ipm.ac.ir/",
+    "description": [
+      "We developed intelligent algorithms for cost-efficient data placement in tiered cloud storage systems by analyzing workload characteristics and dynamically selecting optimal storage tiers while maintaining QoS constraints. Implemented an automated auto-scaling framework for distributed databases using Python and Bash scripting to adapt computing resources based on real-time CPU and memory utilization. The research delivers practical solutions for building scalable, cost-aware, and self-managing cloud platforms."
+    ],
+    "technologies": [
+      "Azure Storage",
+      "OpenStack",
+      "Python & Bash scripting programming"
+    ]
+  },
+
+  {
+    "title": "Cloud Infrastructure Engineering and Distributed Database Evaluation",
+    "label": "Project",
+    "period": "Nov. 2018 - Apr. 2023",
+    "role": "Research Engineer – Cloud and Distributed Systems",
+    "institution": "CREST Lab, University of Adelaide",
+    "institution_link": "https://set.adelaide.edu.au/crest/",
+    "description": [
+      "We built and evaluated real-world cloud and hybrid cloud platforms integrating Microsoft Azure and private cloud environments using Infrastructure-as-Code (Terraform), Linux networking, and automation tools. Benchmarked distributed databases including MongoDB, Cassandra, Redis, and MySQL under diverse cloud, edge, and mobility scenarios to analyze performance, scalability, energy consumption, and resource efficiency."
+    ],
+    "technologies": [
+      "Azure Cloud",
+      "OpenStack",
+      "Distributed Databases",
+      "Bash Script Programming"
+    ]
+  },
+
+  {
+    "title": "Cost Optimization Algorithms for Hot and Cool Tiers Cloud Storage Services",
+     "label": "Project",
+    "period": "Dec. 2017 - Oct. 2018",
+    "role": "Research Scientist",
+    "institution": "Computer Science and Engineering, Qatar University",
+    "institution_link": "https://www.qu.edu.qa/en-us/Colleges/engineering/academics/computer/Pages/staff.aspx",
+    "description": [
+      "Designed online algorithms for optimizing data placement across Azure cloud storage tiers to minimize storage costs while maintaining performance requirements. The research investigates workload-aware data management strategies and intelligent tiering decisions for large-scale cloud environments."
+    ],
+    "technologies": [
+      "Azure Storage",
+      "CloudSim",
+      "Java & Python programming"
+    ]
+  },
+
+  {
+    "title": "Brokering algorithms for data replication and migration across cloud-based data stores",
+    "label": "Thesis",
+    "period": "2013 - 2017",
+    "role": "PhD Researcher",
+    "institution": "CLOUDS Lab, University of Melbourne",
+    "institution_link": "https://www.unimelb.edu.au/",
+    "description": [
+      "Developed data placement algorithms for multi-cloud storage environments to optimize cost, performance, and Quality of Service (QoS) for data-intensive applications. The research investigated storage services across major cloud providers, including Microsoft Azure, Amazon S3, and Google Cloud Storage, leveraging differences in pricing, performance, and storage classes.",
+      "Designed and evaluated cost-aware replication and migration strategies that dynamically selected optimal storage services while satisfying latency requirements. The proposed algorithms achieved more than 20% cost reduction compared with traditional single-cloud storage approaches through efficient utilization of heterogeneous cloud storage services.",
+      "Designed and implemented a prototype multi-cloud storage platform and validated it through experiments on real cloud infrastructures, demonstrating the effectiveness of the proposed solutions for scalable, cost-efficient, and reliable cloud data management."
+    ],
+    "technologies": [
+      "Microsoft Azure",
+      "Amazon S3",
+      "Google Cloud Storage",
+      "CloudSim",
+      "Java Programming"
+    ]
+  }
+]

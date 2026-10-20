@@ -1,0 +1,18 @@
+[
+    {
+        "title": "AWS Certified Solutions Architect – Associate",
+        "issuer": "AWS",
+        "code": "SAA-C03",
+        "year": "2023",
+        "link": "https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate",
+        "verificationLink": ""
+    },
+    {
+        "title": "Introduction to Computer Science and Programming Using Python",
+        "issuer": "MIT",
+        "code": "Online Course",
+        "year": "2025",
+        "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-7",
+        "verificationLink": ""
+    }
+]
